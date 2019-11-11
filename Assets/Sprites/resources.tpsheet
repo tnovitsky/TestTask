@@ -1,0 +1,19 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:876e0e5c8c11aa1317b5cdbbc6c763eb:4b1564ea54f34a6892ec2df40aba73c2:fb517bda0cc7d7a90efb0a3b12630b8c$
+#
+:format=40300
+:texture=resources.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=disabled
+
+crate_E;1;511;256;512; 0.5;0; 0;0;0;0
+cube;1;253;256;256; 0.5;0; 0;0;0;0
+finish_tile;259;511;256;512; 0.5;0; 0;0;0;0
+floor_E;517;511;256;512; 0.5;0; 0;0;0;0
+start_tile;1;123;128;128; 0.5;0; 0;0;0;0
